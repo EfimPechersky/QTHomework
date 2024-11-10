@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/ColorRect.qml">D:/PEQT/PEQT/qml/ColorRect.qml</file>
+  </qresource>
+</RCC>
+

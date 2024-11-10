@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/PEQT">
+    <file alias="qmldir">D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/PEQT/qmldir</file>
+  </qresource>
+</RCC>
+

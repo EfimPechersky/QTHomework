@@ -1,0 +1,5 @@
+module PEQT
+typeinfo appPEQT.qmltypes
+prefer :/
+ColorRect 1.0 qml/ColorRect.qml
+

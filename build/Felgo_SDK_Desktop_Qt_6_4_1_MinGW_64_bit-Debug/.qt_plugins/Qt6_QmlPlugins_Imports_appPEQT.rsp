@@ -1,0 +1,15 @@
+-rootPath
+D:/PEQT/PEQT
+-cmake-output
+-output-file
+D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appPEQT.cmake
+-importPath
+D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/PEQT
+-importPath
+D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_PEQT.qrc
+D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_PEQT_copy.qrc
+D:/PEQT/PEQT/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appPEQT_raw_qml_0.qrc
